@@ -1347,8 +1347,8 @@ button {
 			#header nav ul li a {
 				display: block;
 				min-width: 7.5rem;
-				height: 5.5rem;
-				line-height: 2.75rem;
+				height: 4rem;
+				line-height: 2rem;
 				padding: 0 1.25rem 0 1.45rem;
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
